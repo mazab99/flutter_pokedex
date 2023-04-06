@@ -5,7 +5,11 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-red.svg)](LICENSE)
 [![License](https://img.shields.io/badge/License-MIT-red.svg)](LICENSE)
 
-Pokedex app built with Flutter
+Pokedex app built with F![Screenshot_20230406_145437](https://user-images.githubusercontent.com/108914401/230384796-e32906e0-c07f-47ac-b3be-a0e06916b79b.png)
+![Screenshot_20230406_145450](https://user-images.githubusercontent.com/108914401/230384805-362e9e09-214e-4c3e-8aa3-5fbf71d69025.png)
+![Screenshot_20230406_145505](https://user-images.githubusercontent.com/108914401/230384830-6da3fecf-565c-4f8a-a016-c96964e33b65.png)
+![Screenshot_20230406_145513](https://user-images.githubusercontent.com/108914401/230384842-e2c3d89c-906e-4003-9145-aa88a3c1df7e.png)
+lutter
 
 
 
